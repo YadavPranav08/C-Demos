@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\2_Datatype\3_operators\bin\Debug\3_operators.exe.config
+C:\Users\prana\source\repos\2_Datatype\3_operators\bin\Debug\3_operators.exe
+C:\Users\prana\source\repos\2_Datatype\3_operators\bin\Debug\3_operators.pdb
+C:\Users\prana\source\repos\2_Datatype\3_operators\obj\Debug\3_operators.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\2_Datatype\3_operators\obj\Debug\3_operators.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\2_Datatype\3_operators\obj\Debug\3_operators.exe
+C:\Users\prana\source\repos\2_Datatype\3_operators\obj\Debug\3_operators.pdb
