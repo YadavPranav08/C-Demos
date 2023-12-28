@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\bin\Debug\2_Datatype.exe.config
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\bin\Debug\2_Datatype.exe
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\bin\Debug\2_Datatype.pdb
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\obj\Debug\2_Datatype.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\obj\Debug\2_Datatype.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\obj\Debug\2_Datatype.exe
+C:\Users\prana\source\repos\2_Datatype\2_Datatype\obj\Debug\2_Datatype.pdb
