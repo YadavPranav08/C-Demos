@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\4_string\obj\Debug\4_string.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\4_string\obj\Debug\4_string.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\4_string\bin\Debug\4_string.exe.config
+C:\Users\prana\source\repos\4_string\4_string\bin\Debug\4_string.exe
+C:\Users\prana\source\repos\4_string\4_string\bin\Debug\4_string.pdb
+C:\Users\prana\source\repos\4_string\4_string\obj\Debug\4_string.exe
+C:\Users\prana\source\repos\4_string\4_string\obj\Debug\4_string.pdb
