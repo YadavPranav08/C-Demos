@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\5_typeconversion\bin\Debug\5_typeconversion.exe.config
+C:\Users\prana\source\repos\4_string\5_typeconversion\bin\Debug\5_typeconversion.exe
+C:\Users\prana\source\repos\4_string\5_typeconversion\bin\Debug\5_typeconversion.pdb
+C:\Users\prana\source\repos\4_string\5_typeconversion\obj\Debug\5_typeconversion.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\5_typeconversion\obj\Debug\5_typeconversion.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\5_typeconversion\obj\Debug\5_typeconversion.exe
+C:\Users\prana\source\repos\4_string\5_typeconversion\obj\Debug\5_typeconversion.pdb
