@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\6_NullableType\bin\Debug\6_NullableType.exe.config
+C:\Users\prana\source\repos\4_string\6_NullableType\bin\Debug\6_NullableType.exe
+C:\Users\prana\source\repos\4_string\6_NullableType\bin\Debug\6_NullableType.pdb
+C:\Users\prana\source\repos\4_string\6_NullableType\obj\Debug\6_NullableType.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\6_NullableType\obj\Debug\6_NullableType.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\6_NullableType\obj\Debug\6_NullableType.exe
+C:\Users\prana\source\repos\4_string\6_NullableType\obj\Debug\6_NullableType.pdb
