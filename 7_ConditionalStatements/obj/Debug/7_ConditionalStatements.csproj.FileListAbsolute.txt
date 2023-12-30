@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\bin\Debug\7_ConditionalStatements.exe.config
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\bin\Debug\7_ConditionalStatements.exe
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\bin\Debug\7_ConditionalStatements.pdb
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\obj\Debug\7_ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\obj\Debug\7_ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\obj\Debug\7_ConditionalStatements.exe
+C:\Users\prana\source\repos\4_string\7_ConditionalStatements\obj\Debug\7_ConditionalStatements.pdb
