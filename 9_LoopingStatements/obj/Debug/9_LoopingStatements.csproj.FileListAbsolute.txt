@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\bin\Debug\9_LoopingStatements.exe.config
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\bin\Debug\9_LoopingStatements.exe
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\bin\Debug\9_LoopingStatements.pdb
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\obj\Debug\9_LoopingStatements.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\obj\Debug\9_LoopingStatements.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\obj\Debug\9_LoopingStatements.exe
+C:\Users\prana\source\repos\4_string\9_LoopingStatements\obj\Debug\9_LoopingStatements.pdb
