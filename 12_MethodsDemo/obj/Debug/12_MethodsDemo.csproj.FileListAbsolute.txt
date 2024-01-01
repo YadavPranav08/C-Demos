@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\bin\Debug\12_MethodsDemo.exe.config
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\bin\Debug\12_MethodsDemo.exe
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\bin\Debug\12_MethodsDemo.pdb
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\obj\Debug\12_MethodsDemo.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\obj\Debug\12_MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\obj\Debug\12_MethodsDemo.exe
+C:\Users\prana\source\repos\4_string\12_MethodsDemo\obj\Debug\12_MethodsDemo.pdb
