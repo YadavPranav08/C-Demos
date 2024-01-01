@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\11_ArreyExample\bin\Debug\11_ArreyExample.exe.config
+C:\Users\prana\source\repos\4_string\11_ArreyExample\bin\Debug\11_ArreyExample.exe
+C:\Users\prana\source\repos\4_string\11_ArreyExample\bin\Debug\11_ArreyExample.pdb
+C:\Users\prana\source\repos\4_string\11_ArreyExample\obj\Debug\11_ArreyExample.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\11_ArreyExample\obj\Debug\11_ArreyExample.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\11_ArreyExample\obj\Debug\11_ArreyExample.exe
+C:\Users\prana\source\repos\4_string\11_ArreyExample\obj\Debug\11_ArreyExample.pdb
