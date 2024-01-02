@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\13_MethodParameters\bin\Debug\13_MethodParameters.exe.config
+C:\Users\prana\source\repos\4_string\13_MethodParameters\bin\Debug\13_MethodParameters.exe
+C:\Users\prana\source\repos\4_string\13_MethodParameters\bin\Debug\13_MethodParameters.pdb
+C:\Users\prana\source\repos\4_string\13_MethodParameters\obj\Debug\13_MethodParameters.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\13_MethodParameters\obj\Debug\13_MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\13_MethodParameters\obj\Debug\13_MethodParameters.exe
+C:\Users\prana\source\repos\4_string\13_MethodParameters\obj\Debug\13_MethodParameters.pdb
