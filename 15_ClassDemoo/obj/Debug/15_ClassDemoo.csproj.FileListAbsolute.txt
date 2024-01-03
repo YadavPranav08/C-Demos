@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\bin\Debug\15_ClassDemoo.exe.config
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\bin\Debug\15_ClassDemoo.exe
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\bin\Debug\15_ClassDemoo.pdb
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\obj\Debug\15_ClassDemoo.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\obj\Debug\15_ClassDemoo.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\obj\Debug\15_ClassDemoo.exe
+C:\Users\prana\source\repos\4_string\15_ClassDemoo\obj\Debug\15_ClassDemoo.pdb
