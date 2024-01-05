@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.exe.config
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.exe
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.pdb
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.exe
+C:\Users\prana\source\repos\4_string\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.pdb
