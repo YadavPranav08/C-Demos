@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\18_Constructor\bin\Debug\18_Constructor.exe.config
+C:\Users\prana\source\repos\4_string\18_Constructor\bin\Debug\18_Constructor.exe
+C:\Users\prana\source\repos\4_string\18_Constructor\bin\Debug\18_Constructor.pdb
+C:\Users\prana\source\repos\4_string\18_Constructor\obj\Debug\18_Constructor.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\18_Constructor\obj\Debug\18_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\18_Constructor\obj\Debug\18_Constructor.exe
+C:\Users\prana\source\repos\4_string\18_Constructor\obj\Debug\18_Constructor.pdb
