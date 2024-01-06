@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\19_Inheritance\bin\Debug\19_Inheritance.exe.config
+C:\Users\prana\source\repos\4_string\19_Inheritance\bin\Debug\19_Inheritance.exe
+C:\Users\prana\source\repos\4_string\19_Inheritance\bin\Debug\19_Inheritance.pdb
+C:\Users\prana\source\repos\4_string\19_Inheritance\obj\Debug\19_Inheritance.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\19_Inheritance\obj\Debug\19_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\19_Inheritance\obj\Debug\19_Inheritance.exe
+C:\Users\prana\source\repos\4_string\19_Inheritance\obj\Debug\19_Inheritance.pdb
