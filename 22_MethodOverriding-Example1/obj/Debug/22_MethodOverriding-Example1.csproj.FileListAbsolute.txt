@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\bin\Debug\22_MethodOverriding-Example1.exe.config
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\bin\Debug\22_MethodOverriding-Example1.exe
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\bin\Debug\22_MethodOverriding-Example1.pdb
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\obj\Debug\22_MethodOverriding-Example1.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\obj\Debug\22_MethodOverriding-Example1.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\obj\Debug\22_MethodOverriding-Example1.exe
+C:\Users\prana\source\repos\4_string\22_MethodOverriding-Example1\obj\Debug\22_MethodOverriding-Example1.pdb
