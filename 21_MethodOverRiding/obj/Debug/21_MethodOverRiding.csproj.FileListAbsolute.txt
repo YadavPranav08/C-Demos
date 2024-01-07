@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\bin\Debug\21_MethodOverRiding.exe.config
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\bin\Debug\21_MethodOverRiding.exe
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\bin\Debug\21_MethodOverRiding.pdb
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\obj\Debug\21_MethodOverRiding.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\obj\Debug\21_MethodOverRiding.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\obj\Debug\21_MethodOverRiding.exe
+C:\Users\prana\source\repos\4_string\21_MethodOverRiding\obj\Debug\21_MethodOverRiding.pdb
