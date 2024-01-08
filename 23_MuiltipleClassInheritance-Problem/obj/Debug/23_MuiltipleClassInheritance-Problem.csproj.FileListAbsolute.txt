@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\bin\Debug\23_MuiltipleClassInheritance-Problem.exe.config
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\bin\Debug\23_MuiltipleClassInheritance-Problem.exe
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\bin\Debug\23_MuiltipleClassInheritance-Problem.pdb
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\obj\Debug\23_MuiltipleClassInheritance-Problem.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\obj\Debug\23_MuiltipleClassInheritance-Problem.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\obj\Debug\23_MuiltipleClassInheritance-Problem.exe
+C:\Users\prana\source\repos\4_string\23_MuiltipleClassInheritance-Problem\obj\Debug\23_MuiltipleClassInheritance-Problem.pdb
