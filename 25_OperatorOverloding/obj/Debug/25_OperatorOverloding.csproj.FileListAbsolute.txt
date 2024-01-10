@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\bin\Debug\25_OperatorOverloding.exe.config
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\bin\Debug\25_OperatorOverloding.exe
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\bin\Debug\25_OperatorOverloding.pdb
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\obj\Debug\25_OperatorOverloding.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\obj\Debug\25_OperatorOverloding.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\obj\Debug\25_OperatorOverloding.exe
+C:\Users\prana\source\repos\4_string\25_OperatorOverloding\obj\Debug\25_OperatorOverloding.pdb
