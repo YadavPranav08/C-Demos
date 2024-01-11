@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\bin\Debug\27_AbstractKeyword.exe.config
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\bin\Debug\27_AbstractKeyword.exe
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\bin\Debug\27_AbstractKeyword.pdb
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\obj\Debug\27_AbstractKeyword.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\obj\Debug\27_AbstractKeyword.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\obj\Debug\27_AbstractKeyword.exe
+C:\Users\prana\source\repos\4_string\27_AbstractKeyword\obj\Debug\27_AbstractKeyword.pdb
