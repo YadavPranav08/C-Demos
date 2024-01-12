@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\bin\Debug\30_NamespaceDemo.exe.config
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\bin\Debug\30_NamespaceDemo.exe
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\bin\Debug\30_NamespaceDemo.pdb
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\obj\Debug\30_NamespaceDemo.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\obj\Debug\30_NamespaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\obj\Debug\30_NamespaceDemo.exe
+C:\Users\prana\source\repos\4_string\30_NamespaceDemo\obj\Debug\30_NamespaceDemo.pdb
