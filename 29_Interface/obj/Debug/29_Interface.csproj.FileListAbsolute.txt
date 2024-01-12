@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\29_Interface\bin\Debug\29_Interface.exe.config
+C:\Users\prana\source\repos\4_string\29_Interface\bin\Debug\29_Interface.exe
+C:\Users\prana\source\repos\4_string\29_Interface\bin\Debug\29_Interface.pdb
+C:\Users\prana\source\repos\4_string\29_Interface\obj\Debug\29_Interface.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\29_Interface\obj\Debug\29_Interface.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\29_Interface\obj\Debug\29_Interface.exe
+C:\Users\prana\source\repos\4_string\29_Interface\obj\Debug\29_Interface.pdb
