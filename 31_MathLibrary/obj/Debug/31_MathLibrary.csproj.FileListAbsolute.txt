@@ -1,0 +1,6 @@
+C:\Users\prana\source\repos\4_string\31_MathLibrary\bin\Debug\31_MathLibrary.dll
+C:\Users\prana\source\repos\4_string\31_MathLibrary\bin\Debug\31_MathLibrary.pdb
+C:\Users\prana\source\repos\4_string\31_MathLibrary\obj\Debug\31_MathLibrary.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\31_MathLibrary\obj\Debug\31_MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\31_MathLibrary\obj\Debug\31_MathLibrary.dll
+C:\Users\prana\source\repos\4_string\31_MathLibrary\obj\Debug\31_MathLibrary.pdb
