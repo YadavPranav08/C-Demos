@@ -1,0 +1,10 @@
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\bin\Debug\31_MathLibraryClient.exe.config
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\bin\Debug\31_MathLibraryClient.exe
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\bin\Debug\31_MathLibraryClient.pdb
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\obj\Debug\31_MathLibraryClient.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\obj\Debug\31_MathLibraryClient.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\obj\Debug\31_MathLibraryClient.exe
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\obj\Debug\31_MathLibraryClient.pdb
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\bin\Debug\31_MathLibrary.dll
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\bin\Debug\31_MathLibrary.pdb
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient\obj\Debug\31_MathLibraryClient.csproj.CopyComplete
