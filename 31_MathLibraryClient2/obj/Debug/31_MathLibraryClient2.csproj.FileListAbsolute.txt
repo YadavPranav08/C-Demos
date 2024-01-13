@@ -1,0 +1,10 @@
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\bin\Debug\31_MathLibraryClient2.exe.config
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\bin\Debug\31_MathLibraryClient2.exe
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\bin\Debug\31_MathLibraryClient2.pdb
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\bin\Debug\31_MathLibrary.dll
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\bin\Debug\31_MathLibrary.pdb
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\obj\Debug\31_MathLibraryClient2.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\obj\Debug\31_MathLibraryClient2.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\obj\Debug\31_MathLibraryClient2.csproj.CopyComplete
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\obj\Debug\31_MathLibraryClient2.exe
+C:\Users\prana\source\repos\4_string\31_MathLibraryClient2\obj\Debug\31_MathLibraryClient2.pdb
