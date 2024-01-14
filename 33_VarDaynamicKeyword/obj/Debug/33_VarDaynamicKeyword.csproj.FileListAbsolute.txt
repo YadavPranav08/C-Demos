@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\bin\Debug\33_VarDaynamicKeyword.exe.config
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\bin\Debug\33_VarDaynamicKeyword.exe
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\bin\Debug\33_VarDaynamicKeyword.pdb
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\obj\Debug\33_VarDaynamicKeyword.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\obj\Debug\33_VarDaynamicKeyword.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\obj\Debug\33_VarDaynamicKeyword.exe
+C:\Users\prana\source\repos\4_string\33_VarDaynamicKeyword\obj\Debug\33_VarDaynamicKeyword.pdb
