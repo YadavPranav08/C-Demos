@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\bin\Debug\34_AbstractionEncapsulation.exe.config
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\bin\Debug\34_AbstractionEncapsulation.exe
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\bin\Debug\34_AbstractionEncapsulation.pdb
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.exe
+C:\Users\prana\source\repos\4_string\34_AbstractionEncapsulation\obj\Debug\34_AbstractionEncapsulation.pdb
