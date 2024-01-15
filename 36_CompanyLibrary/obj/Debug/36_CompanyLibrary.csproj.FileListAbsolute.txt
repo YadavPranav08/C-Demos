@@ -1,0 +1,6 @@
+C:\Users\prana\source\repos\4_string\36_CompanyLibrary\bin\Debug\36_CompanyLibrary.dll
+C:\Users\prana\source\repos\4_string\36_CompanyLibrary\bin\Debug\36_CompanyLibrary.pdb
+C:\Users\prana\source\repos\4_string\36_CompanyLibrary\obj\Debug\36_CompanyLibrary.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\36_CompanyLibrary\obj\Debug\36_CompanyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\36_CompanyLibrary\obj\Debug\36_CompanyLibrary.dll
+C:\Users\prana\source\repos\4_string\36_CompanyLibrary\obj\Debug\36_CompanyLibrary.pdb
