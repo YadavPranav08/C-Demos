@@ -1,0 +1,10 @@
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\bin\Debug\36_CompanyLibraryClient.exe.config
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\bin\Debug\36_CompanyLibraryClient.exe
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\bin\Debug\36_CompanyLibraryClient.pdb
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\bin\Debug\36_CompanyLibrary.dll
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\bin\Debug\36_CompanyLibrary.pdb
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\obj\Debug\36_CompanyLibraryClient.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\obj\Debug\36_CompanyLibraryClient.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\obj\Debug\36_CompanyLibraryClient.csproj.CopyComplete
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\obj\Debug\36_CompanyLibraryClient.exe
+C:\Users\prana\source\repos\4_string\36_CompanyLibraryClient\obj\Debug\36_CompanyLibraryClient.pdb
