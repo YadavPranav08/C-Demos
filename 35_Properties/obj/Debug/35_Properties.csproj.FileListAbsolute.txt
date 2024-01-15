@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\35_Properties\bin\Debug\35_Properties.exe.config
+C:\Users\prana\source\repos\4_string\35_Properties\bin\Debug\35_Properties.exe
+C:\Users\prana\source\repos\4_string\35_Properties\bin\Debug\35_Properties.pdb
+C:\Users\prana\source\repos\4_string\35_Properties\obj\Debug\35_Properties.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\35_Properties\obj\Debug\35_Properties.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\35_Properties\obj\Debug\35_Properties.exe
+C:\Users\prana\source\repos\4_string\35_Properties\obj\Debug\35_Properties.pdb
