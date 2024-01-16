@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\bin\Debug\38_ExceptionHandling-Continue.exe.config
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\bin\Debug\38_ExceptionHandling-Continue.exe
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\bin\Debug\38_ExceptionHandling-Continue.pdb
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\obj\Debug\38_ExceptionHandling-Continue.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\obj\Debug\38_ExceptionHandling-Continue.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\obj\Debug\38_ExceptionHandling-Continue.exe
+C:\Users\prana\source\repos\4_string\38_ExceptionHandling-Continue\obj\Debug\38_ExceptionHandling-Continue.pdb
