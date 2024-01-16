@@ -1,0 +1,8 @@
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\bin\Debug\37_ExceptionHandling.exe.config
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\bin\Debug\37_ExceptionHandling.exe
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\bin\Debug\37_ExceptionHandling.pdb
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.exe
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\obj\Debug\37_ExceptionHandling.pdb
+C:\Users\prana\source\repos\4_string\37_ExceptionHandling\bin\Debug\Logs\Error.txt
