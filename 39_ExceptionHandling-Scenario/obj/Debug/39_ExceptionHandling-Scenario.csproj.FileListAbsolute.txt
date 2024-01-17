@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\bin\Debug\39_ExceptionHandling-Scenario.exe.config
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\bin\Debug\39_ExceptionHandling-Scenario.exe
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\bin\Debug\39_ExceptionHandling-Scenario.pdb
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\obj\Debug\39_ExceptionHandling-Scenario.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\obj\Debug\39_ExceptionHandling-Scenario.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\obj\Debug\39_ExceptionHandling-Scenario.exe
+C:\Users\prana\source\repos\4_string\39_ExceptionHandling-Scenario\obj\Debug\39_ExceptionHandling-Scenario.pdb
