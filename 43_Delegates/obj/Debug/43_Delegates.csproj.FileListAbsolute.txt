@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\43_Delegates\bin\Debug\43_Delegates.exe.config
+C:\Users\prana\source\repos\4_string\43_Delegates\bin\Debug\43_Delegates.exe
+C:\Users\prana\source\repos\4_string\43_Delegates\bin\Debug\43_Delegates.pdb
+C:\Users\prana\source\repos\4_string\43_Delegates\obj\Debug\43_Delegates.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\43_Delegates\obj\Debug\43_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\43_Delegates\obj\Debug\43_Delegates.exe
+C:\Users\prana\source\repos\4_string\43_Delegates\obj\Debug\43_Delegates.pdb
