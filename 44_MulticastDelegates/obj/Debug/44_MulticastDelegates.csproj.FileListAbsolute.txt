@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\bin\Debug\44_MulticastDelegates.exe.config
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\bin\Debug\44_MulticastDelegates.exe
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\bin\Debug\44_MulticastDelegates.pdb
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.exe
+C:\Users\prana\source\repos\4_string\44_MulticastDelegates\obj\Debug\44_MulticastDelegates.pdb
