@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\bin\Debug\45_GenericDelegates.exe.config
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\bin\Debug\45_GenericDelegates.exe
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\bin\Debug\45_GenericDelegates.pdb
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\obj\Debug\45_GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\obj\Debug\45_GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\obj\Debug\45_GenericDelegates.exe
+C:\Users\prana\source\repos\4_string\45_GenericDelegates\obj\Debug\45_GenericDelegates.pdb
