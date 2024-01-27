@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\bin\Debug\46_ConstreadonlyKeyword.exe.config
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\bin\Debug\46_ConstreadonlyKeyword.exe
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\bin\Debug\46_ConstreadonlyKeyword.pdb
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\obj\Debug\46_ConstreadonlyKeyword.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\obj\Debug\46_ConstreadonlyKeyword.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\obj\Debug\46_ConstreadonlyKeyword.exe
+C:\Users\prana\source\repos\4_string\46_ConstreadonlyKeyword\obj\Debug\46_ConstreadonlyKeyword.pdb
