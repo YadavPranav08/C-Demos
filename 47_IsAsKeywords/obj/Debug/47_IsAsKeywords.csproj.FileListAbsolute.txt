@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\bin\Debug\47_IsAsKeywords.exe.config
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\bin\Debug\47_IsAsKeywords.exe
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\bin\Debug\47_IsAsKeywords.pdb
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\obj\Debug\47_IsAsKeywords.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\obj\Debug\47_IsAsKeywords.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\obj\Debug\47_IsAsKeywords.exe
+C:\Users\prana\source\repos\4_string\47_IsAsKeywords\obj\Debug\47_IsAsKeywords.pdb
