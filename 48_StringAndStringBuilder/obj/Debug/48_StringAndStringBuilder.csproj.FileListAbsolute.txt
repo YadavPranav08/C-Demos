@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\bin\Debug\48_StringAndStringBuilder.exe.config
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\bin\Debug\48_StringAndStringBuilder.exe
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\bin\Debug\48_StringAndStringBuilder.pdb
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\obj\Debug\48_StringAndStringBuilder.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\obj\Debug\48_StringAndStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\obj\Debug\48_StringAndStringBuilder.exe
+C:\Users\prana\source\repos\4_string\48_StringAndStringBuilder\obj\Debug\48_StringAndStringBuilder.pdb
