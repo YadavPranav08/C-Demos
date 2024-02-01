@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\49_LazyLoading\bin\Debug\49_LazyLoading.exe.config
+C:\Users\prana\source\repos\4_string\49_LazyLoading\bin\Debug\49_LazyLoading.exe
+C:\Users\prana\source\repos\4_string\49_LazyLoading\bin\Debug\49_LazyLoading.pdb
+C:\Users\prana\source\repos\4_string\49_LazyLoading\obj\Debug\49_LazyLoading.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\49_LazyLoading\obj\Debug\49_LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\49_LazyLoading\obj\Debug\49_LazyLoading.exe
+C:\Users\prana\source\repos\4_string\49_LazyLoading\obj\Debug\49_LazyLoading.pdb
