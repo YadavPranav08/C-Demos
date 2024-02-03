@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\4_string\50_Reflection\bin\Debug\50_Reflection.exe.config
+C:\Users\prana\source\repos\4_string\50_Reflection\bin\Debug\50_Reflection.exe
+C:\Users\prana\source\repos\4_string\50_Reflection\bin\Debug\50_Reflection.pdb
+C:\Users\prana\source\repos\4_string\50_Reflection\obj\Debug\50_Reflection.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\4_string\50_Reflection\obj\Debug\50_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\4_string\50_Reflection\obj\Debug\50_Reflection.exe
+C:\Users\prana\source\repos\4_string\50_Reflection\obj\Debug\50_Reflection.pdb
